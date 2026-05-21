@@ -1,0 +1,812 @@
+[
+  {
+    "pregunta": "¿Qué tipo de licencia Creative Commons permite la distribución y modificación de una obra con fines comerciales, siempre que se reconozca la autoría?",
+    "respuesta": "CC BY.",
+    "opciones": [
+      "CC BY-ND.",
+      "CC BY.",
+      "CC BY-NC."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes herramientas en Java es utilizada para el aprendizaje profundo?",
+    "respuesta": "Weka.",
+    "opciones": [
+      "ggplot",
+      "Weka.",
+      "Scikit-learn."
+    ]
+  },
+  {
+    "pregunta": "Una de las funciones del Delegado de Protección de Datos (DPO) es:",
+    "respuesta": "Gestionar la seguridad de la información y proteger los derechos de los usuarios.",
+    "opciones": [
+      "Promover el uso indiscriminado de datos personales.",
+      "Gestionar la seguridad de la información y proteger los derechos de los usuarios.",
+      "Reemplazar la necesidad de evaluaciones de impacto."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una proyección sobre el futuro de la inteligencia artificial?",
+    "respuesta": "Mayor autonomía en la toma de decisiones.",
+    "opciones": [
+      "Mayor autonomía en la toma de decisiones.",
+      "Reducción en el uso de datos.",
+      "Disminución de la capacidad de procesamiento."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la duración del derecho de autor en España después de la muerte del autor?",
+    "respuesta": "70 años.",
+    "opciones": [
+      "70 años.",
+      "100 años.",
+      "50 años."
+    ]
+  },
+  {
+    "pregunta": "¿Qué campo se prevé que se beneficie significativamente de la IA en el futuro?",
+    "respuesta": "Salud y educación.",
+    "opciones": [
+      "Salud y educación.",
+      "Industria del entretenimiento.",
+      "Agricultura convencional."
+    ]
+  },
+  {
+    "pregunta": "¿Cuáles son las cinco V del Big Data?",
+    "respuesta": "Volumen, velocidad, variedad, veracidad, valor.",
+    "opciones": [
+      "Volumen, velocidad, variedad, versatilidad, valor.",
+      "Volumen, variabilidad, veracidad, visualización, valor.",
+      "Volumen, velocidad, variedad, veracidad, valor."
+    ]
+  },
+  {
+    "pregunta": "Las reglas de asociación utilizan medidas como:",
+    "respuesta": "Soporte y confianza.",
+    "opciones": [
+      "Media y mediana.",
+      "Desviación estándar y varianza.",
+      "Soporte y confianza."
+    ]
+  },
+  {
+    "pregunta": "La inteligencia artificial simbólica se basa en:",
+    "respuesta": "La manipulación de símbolos y el seguimiento de reglas lógicas.",
+    "opciones": [
+      "Algoritmos aleatorios para la toma de decisiones.",
+      "Redes neuronales y procesamiento de datos no estructurados.",
+      "La manipulación de símbolos y el seguimiento de reglas lógicas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es el tratamiento de datos?",
+    "respuesta": "Una serie de acciones que permiten la recolección, almacenamiento, procesamiento y análisis de información.",
+    "opciones": [
+      "Solo la recolección de datos sin ningún uso posterior.",
+      "Una serie de acciones que permiten la recolección, almacenamiento, procesamiento y análisis de información.",
+      "Un proceso exclusivo para almacenar información sin análisis."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una medida establecida por la Ley Orgánica para asegurar un uso ético de la inteligencia artificial?",
+    "respuesta": "Garantizar la transparencia del algoritmo y del procesamiento de la información.",
+    "opciones": [
+      "No es necesario realizar evaluaciones de impacto antes de su uso.",
+      "Garantizar la transparencia del algoritmo y del procesamiento de la información.",
+      "Permitir el acceso ilimitado a la información personal de los usuarios."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta en R se utiliza comúnmente para aplicar algoritmos de machine learning?",
+    "respuesta": "Caret.",
+    "opciones": [
+      "Caret.",
+      "TensorFlow",
+      "NumPy."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es el copyright?",
+    "respuesta": "Un sistema legal que otorga derechos exclusivos a los creadores sobre sus obras.",
+    "opciones": [
+      "Un sistema que promueve la modificación libre de obras.",
+      "Un sistema legal que otorga derechos exclusivos a los creadores sobre sus obras.",
+      "Un tipo de licencia que no requiere reconocimiento de autor."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la minería de datos?",
+    "respuesta": "El examen de grandes cantidades de información para descubrir patrones y relaciones relevantes.",
+    "opciones": [
+      "La recolección de datos sin análisis.",
+      "Un proceso manual para analizar datos sin herramientas automatizadas.",
+      "El examen de grandes cantidades de información para descubrir patrones y relaciones relevantes."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de amenaza es un malware?",
+    "respuesta": "Un software malicioso diseñado para acceder a información sensible.",
+    "opciones": [
+      "Un software de productividad.",
+      "Un software que mejora la seguridad.",
+      "Un software malicioso diseñado para acceder a información sensible."
+    ]
+  },
+  {
+    "pregunta": "¿Qué relación existe entre el machine learning y la inteligencia artificial?",
+    "respuesta": "El machine learning es un subconjunto de la inteligencia artificial",
+    "opciones": [
+      "Son términos sin relación",
+      "La inteligencia artificial es un tipo de machine learning",
+      "El machine learning es un subconjunto de la inteligencia artificial"
+    ]
+  },
+  {
+    "pregunta": "¿Qué hace un Delegado de Protección de Datos (DPO)?",
+    "respuesta": "Asegura el cumplimiento de la normativa de protección de datos dentro de la organización.",
+    "opciones": [
+      "Monitorea las redes sociales de la empresa.",
+      "Realiza auditorías financieras.",
+      "Asegura el cumplimiento de la normativa de protección de datos dentro de la organización."
+    ]
+  },
+  {
+    "pregunta": "¿Qué establece la ley de protección de datos en relación al consentimiento?",
+    "respuesta": "El consentimiento debe ser explícito y claro.",
+    "opciones": [
+      "El consentimiento debe ser explícito y claro.",
+      "El consentimiento puede ser asumido.",
+      "No se necesita consentimiento para el tratamiento de datos."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una de las etapas de la ciencia de datos mencionadas en el texto?",
+    "respuesta": "Modelización",
+    "opciones": [
+      "Modelización",
+      "Clasificación de datos",
+      "Eliminación de datos"
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se define la etapa de \"análisis de datos\" en el ciclo de vida de los datos?",
+    "respuesta": "Procesamiento y transformación de datos para extraer información valiosa",
+    "opciones": [
+      "Procesamiento y transformación de datos para extraer información valiosa",
+      "Solo se refiere a la eliminación de datos no útiles",
+      "El almacenamiento de datos en la nube"
+    ]
+  },
+  {
+    "pregunta": "¿Qué se entiende por \"ciberamenaza\"?",
+    "respuesta": "Un riesgo de seguridad que afecta a los sistemas informáticos.",
+    "opciones": [
+      "Un programa de fidelización de clientes.",
+      "Una estrategia de marketing digital.",
+      "Un riesgo de seguridad que afecta a los sistemas informáticos."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una de las principales aplicaciones del Cloud Computing?",
+    "respuesta": "Almacenar datos en servidores de distintos proveedores",
+    "opciones": [
+      "Almacenar datos en servidores de distintos proveedores",
+      "Crear redes neuronales",
+      "Recopilar datos de forma manual"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es un objetivo del análisis de datos?",
+    "respuesta": "Identificar patrones y tendencias para la toma de decisiones estratégicas",
+    "opciones": [
+      "Generar confusión en la toma de decisiones",
+      "Almacenar datos de forma manual",
+      "Identificar patrones y tendencias para la toma de decisiones estratégicas"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes derechos permite a un ciudadano recibir sus datos en un formato estructurado para transferirlos a otro responsable del tratamiento?",
+    "respuesta": "Derecho a la portabilidad.",
+    "opciones": [
+      "Derecho a la rectificación.",
+      "Derecho a la portabilidad.",
+      "Derecho de oposición."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa la información?",
+    "respuesta": "Un mensaje que tiene relevancia y significado",
+    "opciones": [
+      "Un mensaje que tiene relevancia y significado",
+      "Un archivo almacenado en la nube",
+      "Un conjunto de números sin contexto"
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa el término \"ransomware\"?",
+    "respuesta": "Un modelo de extorsión que pide un rescate por la recuperación de datos.",
+    "opciones": [
+      "Un tipo de antivirus.",
+      "Un software que mejora el rendimiento del sistema.",
+      "Un modelo de extorsión que pide un rescate por la recuperación de datos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se entiende por \"Deep Learning\" en el contexto de la ciencia de datos?",
+    "respuesta": "Una forma de machine learning que utiliza redes neuronales profundas",
+    "opciones": [
+      "Una forma de machine learning que utiliza redes neuronales profundas",
+      "Una técnica obsoleta de análisis de datos",
+      "Un enfoque que se basa únicamente en datos no estructurados"
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento es clave para el éxito de la integración entre áreas digitalizadas y no digitalizadas?",
+    "respuesta": "Implementación de APIs y middleware.",
+    "opciones": [
+      "Sustitución inmediata de todo el personal.",
+      "Implementación de APIs y middleware.",
+      "Uso exclusivo de sistemas manuales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tecnología permite la descentralización de datos en transacciones financieras?",
+    "respuesta": "Blockchain",
+    "opciones": [
+      "ERP",
+      "Blockchain",
+      "Big Data"
+    ]
+  },
+  {
+    "pregunta": "¿Qué estrategia combina datos internos y externos para prever tendencias y mejorar la competitividad?",
+    "respuesta": "Big Data con analítica avanzada",
+    "opciones": [
+      "Blockchain con ERP",
+      "IoT con BPM",
+      "Big Data con analítica avanzada"
+    ]
+  },
+  {
+    "pregunta": "¿Qué metodología es más adecuada para garantizar la flexibilidad en los procesos de transformación digital?",
+    "respuesta": "Agile",
+    "opciones": [
+      "Agile",
+      "Tradicional",
+      "Waterfall"
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta facilita la gestión de relaciones con los clientes?",
+    "respuesta": "CRM",
+    "opciones": [
+      "ERP",
+      "CRM",
+      "BPM"
+    ]
+  },
+  {
+    "pregunta": "¿Qué departamento utiliza RPA para automatizar tareas repetitivas?",
+    "respuesta": "Ambos",
+    "opciones": [
+      "Recursos Humanos",
+      "Finanzas",
+      "Ambos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta facilita la comunicación entre sistemas digitales y tradicionales?",
+    "respuesta": "Middleware",
+    "opciones": [
+      "Inteligencia Artificial",
+      "CRM",
+      "Middleware"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso en la digitalización empresarial?",
+    "respuesta": "Realizar un análisis de situación actual.",
+    "opciones": [
+      "Seleccionar tecnologías avanzadas.",
+      "Establecer flujos de trabajo digitales.",
+      "Realizar un análisis de situación actual."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta permite supervisar el desempeño de procesos digitales en tiempo real?",
+    "respuesta": "Dashboards",
+    "opciones": [
+      "Dashboards",
+      "Redes sociales",
+      "Herramientas de IoT"
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta permite optimizar el rendimiento y prever tendencias en la cadena de suministro?",
+    "respuesta": "Big Data",
+    "opciones": [
+      "ERP",
+      "Blockchain",
+      "Big Data"
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de datos son esenciales para optimizar procesos y mejorar la toma de decisiones?",
+    "respuesta": "Datos estructurados y no estructurados.",
+    "opciones": [
+      "Solo datos generados por IoT.",
+      "Datos estructurados y no estructurados.",
+      "Solo datos históricos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa la digitalización en el entorno empresarial?",
+    "respuesta": "Transformación de procesos manuales en digitales para optimizar la eficiencia.",
+    "opciones": [
+      "Transformación de procesos manuales en digitales para optimizar la eficiencia.",
+      "Uso de redes sociales para mejorar la publicidad.",
+      "Uso de tecnologías para reemplazar a los empleados."
+    ]
+  },
+  {
+    "pregunta": "¿Qué área es clave para almacenar y analizar datos sobre el rendimiento de las máquinas?",
+    "respuesta": "Producción",
+    "opciones": [
+      "Finanzas",
+      "Logística",
+      "Producción"
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnica se recomienda para proteger la identidad de las personas en el tratamiento de datos?",
+    "respuesta": "Anonimización y pseudonimización de la información personal.",
+    "opciones": [
+      "Análisis de datos en tiempo real.",
+      "Almacenamiento de datos sin restricciones.",
+      "Anonimización y pseudonimización de la información personal."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es uno de los principales desafíos de la minería de datos en el sector salud?",
+    "respuesta": "Analizar grandes volúmenes de información de manera efectiva.",
+    "opciones": [
+      "La falta de datos disponibles.",
+      "Analizar grandes volúmenes de información de manera efectiva.",
+      "La simplicidad de los datos recopilados."
+    ]
+  },
+  {
+    "pregunta": "¿Qué protege principalmente los derechos morales en el contexto de los derechos de autor?",
+    "respuesta": "La relación personal del autor con su obra.",
+    "opciones": [
+      "La reproducción de la obra.",
+      "La relación personal del autor con su obra.",
+      "El uso comercial de la obra."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué se considera que R es menos accesible que Python?",
+    "respuesta": "Debido a su curva de aprendizaje más pronunciada.",
+    "opciones": [
+      "Debido a su curva de aprendizaje más pronunciada.",
+      "Por su menor cantidad de recursos disponibles.",
+      "Porque es menos potente en términos de análisis."
+    ]
+  },
+  {
+    "pregunta": "¿Qué principio establece que la privacidad de las personas debe protegerse en todas las fases de desarrollo y uso de la IA?",
+    "respuesta": "Derecho a la intimidad y protección de datos.",
+    "opciones": [
+      "Transparencia y explicabilidad.",
+      "Derecho a la intimidad y protección de datos.",
+      "Proporcionalidad e inocuidad."
+    ]
+  },
+  {
+    "pregunta": "Según la Recomendación, ¿qué principio asegura que la IA se utilice para objetivos legítimos y no exceda su aplicación?",
+    "respuesta": "Proporcionalidad e inocuidad.",
+    "opciones": [
+      "Sostenibilidad.",
+      "Gobernanza colaborativa.",
+      "Proporcionalidad e inocuidad."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja del lenguaje R en el análisis de datos?",
+    "respuesta": "Sus robustas herramientas para la representación visual de datos.",
+    "opciones": [
+      "Su capacidad para crear aplicaciones móviles.",
+      "Sus robustas herramientas para la representación visual de datos.",
+      "Su facilidad de uso para principiantes."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se entiende por inteligencia artificial fuerte?",
+    "respuesta": "Una inteligencia que busca replicar la inteligencia humana en su totalidad.",
+    "opciones": [
+      "Una inteligencia que busca replicar la inteligencia humana en su totalidad.",
+      "Un algoritmo diseñado para resolver problemas matemáticos únicamente.",
+      "Un sistema que ejecuta tareas específicas sin razonamiento."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué Java es popular en el desarrollo de sistemas de inteligencia artificial?",
+    "respuesta": "Por su capacidad de ser ejecutado en diversas plataformas sin cambios significativos.",
+    "opciones": [
+      "Por su simplicidad y facilidad de aprendizaje.",
+      "Por su enfoque exclusivo en el análisis estadístico.",
+      "Por su capacidad de ser ejecutado en diversas plataformas sin cambios significativos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tecnologías se espera que avancen en el futuro de la IA?",
+    "respuesta": "Aprendizaje profundo y algoritmos cuánticos.",
+    "opciones": [
+      "Dispositivos manuales.",
+      "Aprendizaje profundo y algoritmos cuánticos.",
+      "Procesadores de datos analógicos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la singularidad tecnológica en el contexto de la IA?",
+    "respuesta": "Un punto donde la IA supera la inteligencia humana.",
+    "opciones": [
+      "La creación de dispositivos de almacenamiento masivo.",
+      "Un punto donde la IA supera la inteligencia humana.",
+      "Un aumento en el número de usuarios de IA."
+    ]
+  },
+  {
+    "pregunta": "En el ámbito de la salud, ¿qué técnicas se utilizan para la identificación precoz de enfermedades?",
+    "respuesta": "Árboles de decisión y redes neuronales.",
+    "opciones": [
+      "Regresiones lineales y análisis descriptivo.",
+      "Análisis manual de expedientes médicos.",
+      "Árboles de decisión y redes neuronales."
+    ]
+  },
+  {
+    "pregunta": "El valor de \"Florecimiento del medio ambiente y los ecosistemas\" en la Recomendación implica que la IA debe:",
+    "respuesta": "Contribuir al cuidado y mejora del medio ambiente y los ecosistemas.",
+    "opciones": [
+      "Contribuir al cuidado y mejora del medio ambiente y los ecosistemas.",
+      "Fomentar la creación de tecnología industrial masiva.",
+      "Minimizar el uso de recursos naturales."
+    ]
+  },
+  {
+    "pregunta": "En el contexto de la regulación de la IA, ¿qué es el RGPD?",
+    "respuesta": "Un reglamento sobre protección de datos en la Unión Europea.",
+    "opciones": [
+      "Un sistema de inteligencia artificial débil.",
+      "Un algoritmo de aprendizaje automático.",
+      "Un reglamento sobre protección de datos en la Unión Europea."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se debe hacer para prevenir las amenazas internas en una organización?",
+    "respuesta": "Establecer políticas de control de acceso rigurosas.",
+    "opciones": [
+      "No capacitar al personal.",
+      "Ignorar las políticas de seguridad.",
+      "Establecer políticas de control de acceso rigurosas."
+    ]
+  },
+  {
+    "pregunta": "En el contexto de la ciberseguridad, ¿qué se considera una amenaza interna?",
+    "respuesta": "Un riesgo de seguridad originado por empleados con acceso autorizado.",
+    "opciones": [
+      "Un software antivirus ineficaz.",
+      "Un riesgo de seguridad originado por empleados con acceso autorizado.",
+      "Un ataque externo proveniente de hackers."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es el ciclo de vida de los datos?",
+    "respuesta": "Las fases por las que pasan los datos durante su existencia",
+    "opciones": [
+      "Un proceso de eliminación de datos",
+      "Una forma de presentar datos en gráficos",
+      "Las fases por las que pasan los datos durante su existencia"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un derecho digital que se establece en la normativa actual?",
+    "respuesta": "Derecho a la desconexión digital.",
+    "opciones": [
+      "Derecho a la promoción de ventas.",
+      "Derecho a la confidencialidad financiera.",
+      "Derecho a la desconexión digital."
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnica se utiliza para proteger datos mediante su transformación en un formato ilegible?",
+    "respuesta": "Tokenización.",
+    "opciones": [
+      "Pseudonimización.",
+      "Copia de seguridad.",
+      "Tokenización."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es uno de los factores clave para una estrategia de seguridad de la información?",
+    "respuesta": "Las personas involucradas.",
+    "opciones": [
+      "Reducción de costos.",
+      "Las personas involucradas.",
+      "La apariencia de la tecnología."
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnicas se utilizan en el análisis de datos?",
+    "respuesta": "Minería de datos, inteligencia artificial y aprendizaje automático",
+    "opciones": [
+      "Minería de datos, inteligencia artificial y aprendizaje automático",
+      "Solamente herramientas de software",
+      "Solo minería de datos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué es un dato?",
+    "respuesta": "Un conjunto de hechos sin significado",
+    "opciones": [
+      "Un conjunto de hechos sin significado",
+      "Información estructurada y organizada",
+      "Un mensaje que se presenta en forma de documento"
+    ]
+  },
+  {
+    "pregunta": "¿Qué se entiende por Big Data?",
+    "respuesta": "Un conjunto de técnicas para estudiar datos de manera estructurada y a gran escala",
+    "opciones": [
+      "Datos que solo pueden ser analizados manualmente",
+      "Un conjunto de técnicas para estudiar datos de manera estructurada y a gran escala",
+      "El almacenamiento de datos en un solo servidor"
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de ciberataque impide el acceso legítimo a un servicio mediante un volumen abrumador de tráfico?",
+    "respuesta": "DDoS.",
+    "opciones": [
+      "Malware.",
+      "DDoS.",
+      "Phishing."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la primera etapa en el ciclo de vida de los datos?",
+    "respuesta": "Adquisición de datos",
+    "opciones": [
+      "Análisis de datos",
+      "Adquisición de datos",
+      "Almacenamiento de datos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica el despliegue en el ciclo de vida de un modelo de datos?",
+    "respuesta": "La implementación y monitorización del modelo en producción",
+    "opciones": [
+      "La creación de un nuevo modelo",
+      "La implementación y monitorización del modelo en producción",
+      "El almacenamiento de datos en la nube"
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la inteligencia artificial estrecha (o débil)?",
+    "respuesta": "Un sistema que puede realizar tareas específicas con inteligencia similar a la humana",
+    "opciones": [
+      "Un sistema que puede realizar tareas específicas con inteligencia similar a la humana",
+      "Una máquina que puede pensar y razonar en cualquier situación",
+      "Un tipo de software que no puede aprender de su entorno"
+    ]
+  },
+  {
+    "pregunta": "¿Qué área empresarial se beneficia de los sistemas de gestión de nóminas digitales?",
+    "respuesta": "Recursos Humanos",
+    "opciones": [
+      "Marketing",
+      "Logística",
+      "Recursos Humanos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué solución permite gestionar grandes volúmenes de datos no estructurados y complejos?",
+    "respuesta": "Lago de datos",
+    "opciones": [
+      "Almacén de datos",
+      "Lago de datos",
+      "Middleware"
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta permite crear flujos de trabajo optimizados en una empresa?",
+    "respuesta": "BPM",
+    "opciones": [
+      "CRM",
+      "ERP",
+      "BPM"
+    ]
+  },
+  {
+    "pregunta": "¿Qué tipo de análisis permite identificar patrones para prever eventos futuros?",
+    "respuesta": "Análisis predictivo",
+    "opciones": [
+      "Análisis descriptivo",
+      "Análisis prescriptivo",
+      "Análisis predictivo"
+    ]
+  },
+  {
+    "pregunta": "¿Qué metodología ayuda a las empresas a identificar áreas de mejora en sus procesos de negocio?",
+    "respuesta": "BPM",
+    "opciones": [
+      "IoT",
+      "BPM",
+      "Inteligencia Artificial"
+    ]
+  },
+  {
+    "pregunta": "¿Qué enfoque es fundamental en el monitoreo de la transformación digital?",
+    "respuesta": "Fijar métricas y realizar ajustes continuos.",
+    "opciones": [
+      "Usar exclusivamente datos históricos.",
+      "Aplicar una estrategia única y estática.",
+      "Fijar métricas y realizar ajustes continuos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué sistema permite conectar todas las funciones de una empresa en una sola plataforma?",
+    "respuesta": "ERP",
+    "opciones": [
+      "BPM",
+      "IoT",
+      "ERP"
+    ]
+  },
+  {
+    "pregunta": "¿Qué estrategia ayuda a aumentar la eficiencia en los procesos internos mediante la automatización?",
+    "respuesta": "Uso de BPM",
+    "opciones": [
+      "Uso de BPM",
+      "Marketing digital",
+      "Implementar Big Data"
+    ]
+  },
+  {
+    "pregunta": "¿Qué KPI mide la cantidad de tareas completadas frente a las planificadas en proyectos ágiles?",
+    "respuesta": "Métricas de avance",
+    "opciones": [
+      "Satisfacción del cliente",
+      "Tasa de conversión",
+      "Métricas de avance"
+    ]
+  },
+  {
+    "pregunta": "¿Qué objetivo tiene la digitalización del área logística?",
+    "respuesta": "Mejorar la trazabilidad y optimización de recursos.",
+    "opciones": [
+      "Automatizar la gestión de campañas publicitarias.",
+      "Aumentar la cantidad de almacenes físicos.",
+      "Mejorar la trazabilidad y optimización de recursos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué estrategia fomenta la colaboración interdepartamental?",
+    "respuesta": "Crear equipos multidisciplinarios y promover comunicación estratégica.",
+    "opciones": [
+      "Crear equipos multidisciplinarios y promover comunicación estratégica.",
+      "Implementar únicamente tecnologías independientes.",
+      "Aislar cada área en sus propios sistemas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué solución digital mejora la experiencia del cliente y la eficiencia operativa?",
+    "respuesta": "Ambas",
+    "opciones": [
+      "Marketing automatizado",
+      "ERP",
+      "Ambas"
+    ]
+  },
+  {
+    "pregunta": "¿Qué software facilita la recopilación y análisis de grandes volúmenes de datos?",
+    "respuesta": "Herramientas de Big Data",
+    "opciones": [
+      "Herramientas de Big Data",
+      "ERP",
+      "CRM"
+    ]
+  },
+  {
+    "pregunta": "¿Qué avance significativo en la inteligencia artificial ocurrió en los años 2000?",
+    "respuesta": "Expansión del aprendizaje automático y redes neuronales.",
+    "opciones": [
+      "Expansión del aprendizaje automático y redes neuronales.",
+      "Automatización de fábricas.",
+      "Desarrollo de sistemas de lógica."
+    ]
+  },
+  {
+    "pregunta": "La veracidad en el contexto del Big Data se refiere a:",
+    "respuesta": "La calidad y fiabilidad de los datos.",
+    "opciones": [
+      "La calidad y fiabilidad de los datos.",
+      "La velocidad de generación de datos.",
+      "La cantidad de datos disponibles."
+    ]
+  },
+  {
+    "pregunta": "¿Qué derecho permite a un ciudadano saber qué datos están siendo tratados sobre él?",
+    "respuesta": "Derecho de acceso.",
+    "opciones": [
+      "Derecho a la portabilidad.",
+      "Derecho de supresión.",
+      "Derecho de acceso."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal del aprendizaje automático (machine learning)?",
+    "respuesta": "Hacer que las máquinas aprendan y extraigan patrones de datos automáticamente",
+    "opciones": [
+      "Hacer que las máquinas aprendan y extraigan patrones de datos automáticamente",
+      "Almacenar datos de manera indefinida",
+      "Permitir que las máquinas realicen tareas sin ningún tipo de aprendizaje"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la ciberseguridad?",
+    "respuesta": "Proteger dispositivos, redes y datos frente a amenazas digitales.",
+    "opciones": [
+      "Incrementar el rendimiento de los sistemas.",
+      "Proteger dispositivos, redes y datos frente a amenazas digitales.",
+      "Reducir el costo de la tecnología."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es uno de los beneficios de aplicar ciencia de datos en empresas?",
+    "respuesta": "Reducción de tareas manuales y mejora en la toma de decisiones",
+    "opciones": [
+      "Reducción de tareas manuales y mejora en la toma de decisiones",
+      "Incremento en la burocracia",
+      "Disminución de la inversión en tecnología"
+    ]
+  },
+  {
+    "pregunta": "¿Qué recurso es esencial para almacenar grandes volúmenes de información estructurada?",
+    "respuesta": "Almacén de datos",
+    "opciones": [
+      "Suite ofimática",
+      "IoT",
+      "Almacén de datos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué análisis combina datos en tiempo real para mejorar la toma de decisiones estratégicas?",
+    "respuesta": "Prescriptivo",
+    "opciones": [
+      "Prescriptivo",
+      "Predictivo",
+      "Descriptivo"
+    ]
+  },
+  {
+    "pregunta": "¿Qué concepto se refiere a la recopilación y almacenamiento de datos en un formato no estructurado?",
+    "respuesta": "Lago de datos",
+    "opciones": [
+      "Almacén de datos",
+      "Lago de datos",
+      "Servidor de datos"
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnica ayuda a identificar riesgos en el área financiera?",
+    "respuesta": "Big Data",
+    "opciones": [
+      "CRM",
+      "Blockchain",
+      "Big Data"
+    ]
+  }
+]
